@@ -19,7 +19,6 @@
     <children>
         <SplitPane dividerPositions="0.158" orientation="VERTICAL" prefHeight="541.0" prefWidth="723.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
             <items>
-                <!-- Верхняя панель с заголовком и строкой поиска -->
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="85.0" prefWidth="598.0">
                     <children>
                   <Pane prefHeight="82.0" prefWidth="721.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
@@ -46,13 +45,10 @@
                   </Pane>
                     </children>
                 </AnchorPane>
-
-                <!-- Нижняя панель с меню и списком элементов -->
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
                     <children>
                         <SplitPane dividerPositions="0.1835883171070932" prefHeight="288.0" prefWidth="598.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
                             <items>
-                                <!-- Панель меню слева -->
                                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                                     <children>
                               <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#7c7c7c" height="449.0" stroke="BLACK" strokeType="INSIDE" width="129.0" />
@@ -84,11 +80,8 @@
                                         </VBox>
                                     </children>
                                 </AnchorPane>
-                  
-                                                                                                  <!-- Панель со списком элементов справа -->
                                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="315.0" prefWidth="151.0">
                                     <children>
-                                        <!-- Убедитесь, что ListView занимает всю область AnchorPane -->
                                         <ListView fx:id="List" prefHeight="449.0" prefWidth="572.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
                               <AnchorPane fx:id="PopUpAdd" layoutX="62.0" layoutY="75.0" prefHeight="300.0" prefWidth="461.0" visible="false">
                                  <children>
