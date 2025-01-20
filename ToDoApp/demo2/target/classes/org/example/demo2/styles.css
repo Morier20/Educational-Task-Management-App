@@ -1,0 +1,26 @@
+.StyledText {
+    -fx-font-family: "Consolas";
+}
+#SearchBar{
+    -fx-background-radius: 30;
+	-fx-border-radius: 10;
+}
+.NavigationButtons{
+    -fx-font-family: "Consolas";
+    -fx-background-radius: 30;
+    -fx-border-radius: 10;
+    -fx-background-color: white;
+    -fx-pref-width: 70;
+    -fx-pref-height: 40;
+    -fx-text-alignment: center;
+    -fx-wrap-text: true;
+}
+.menuBox {
+    -fx-alignment: center;
+    -fx-spacing: 40px;
+}
+#SearchButton{
+    -fx-background-radius: 30;
+    -fx-border-radius: 10;
+    -fx-background-color: white;
+}

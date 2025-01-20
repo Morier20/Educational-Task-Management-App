@@ -1,0 +1,85 @@
+[ {
+  "id" : 2,
+  "aprasymas" : "Programų sistemų gyvavimo ciklo ir kokybės užtikrinimo analizė.",
+  "dalykas" : "Programų sistemų inžinerijos pagrindai",
+  "pavadinimas" : "Programų sistemų gyvavimo ciklas",
+  "terminas" : "2024-11-25"
+}, {
+  "id" : 3,
+  "aprasymas" : "Algoritmų kūrimas ir optimizavimas bei jų pritaikymas duomenų struktūroms.",
+  "dalykas" : "Algoritmai ir duomenų struktūros",
+  "pavadinimas" : "Algoritmų ir duomenų struktūrų optimizavimas",
+  "terminas" : "2024-11-15"
+}, {
+  "id" : 4,
+  "aprasymas" : "Įvadas į tikimybių teoriją ir jos taikymą statistikoje.",
+  "dalykas" : "Tikimybių teorija ir matematinė statistika",
+  "pavadinimas" : "Tikimybių teorijos įvadas",
+  "terminas" : "2024-11-28"
+}, {
+  "id" : 5,
+  "aprasymas" : "Kompiuterių tinklo kūrimas ir duomenų mainų tarp įrenginių projektavimas.",
+  "dalykas" : "Kompiuterių tinklai",
+  "pavadinimas" : "Tinklo architektūros kūrimas",
+  "terminas" : "2024-11-16"
+}, {
+  "id" : 6,
+  "aprasymas" : "Operacinių sistemų architektūros analizė ir skirtingų branduolių palyginimas.",
+  "dalykas" : "Operacinės sistemos",
+  "pavadinimas" : "Operacinių sistemų architektūra",
+  "terminas" : "2024-11-22"
+}, {
+  "id" : 7,
+  "aprasymas" : "Kompiuterių tinklų veikimo pagrindų supratimas ir taikymas.",
+  "dalykas" : "Kompiuterių tinklai",
+  "pavadinimas" : "Tinklų veikimo principai",
+  "terminas" : "2024-11-17"
+}, {
+  "id" : 8,
+  "aprasymas" : "Pagrindinių programų sistemų kūrimo principų analizė.",
+  "dalykas" : "Programų sistemų inžinerijos pagrindai",
+  "pavadinimas" : "Programų sistemų projektavimo pagrindai",
+  "terminas" : "2024-11-23"
+}, {
+  "id" : 9,
+  "aprasymas" : "Saugumo strategijų kūrimas ir diegimas kompiuterių tinkluose.",
+  "dalykas" : "Kompiuterių tinklai",
+  "pavadinimas" : "Tinklų saugumo strategijos",
+  "terminas" : "2024-11-19"
+}, {
+  "id" : 10,
+  "aprasymas" : "Algoritmų analizė ir jų sudėtingumo įvertinimas.",
+  "dalykas" : "Algoritmai ir duomenų struktūros",
+  "pavadinimas" : "Algoritmų sudėtingumo analizė",
+  "terminas" : "2024-11-21"
+}, {
+  "id" : 11,
+  "aprasymas" : "Tikimybių teorijos pagrindų ir statistinės analizės metodų apžvalga.",
+  "dalykas" : "Tikimybių teorija ir matematinė statistika",
+  "pavadinimas" : "Tikimybių teorijos ir statistikos pagrindai",
+  "terminas" : "2024-11-14"
+}, {
+  "id" : 12,
+  "aprasymas" : "Rekursyvių algoritmų ir jų taikymo įvairiose duomenų struktūrose analizė.",
+  "dalykas" : "Algoritmai ir duomenų struktūros",
+  "pavadinimas" : "Rekursyvių algoritmų analizė",
+  "terminas" : "2024-11-24"
+}, {
+  "id" : 13,
+  "aprasymas" : "Programų sistemų testavimo ir diegimo principai.",
+  "dalykas" : "Programų sistemų inžinerijos pagrindai",
+  "pavadinimas" : "Programų sistemų testavimas",
+  "terminas" : "2024-11-20"
+}, {
+  "id" : 14,
+  "aprasymas" : "Statistinių modelių kūrimas ir jų pritaikymas tikimybių teorijoje.",
+  "dalykas" : "Tikimybių teorija ir matematinė statistika",
+  "pavadinimas" : "Statistinių modelių taikymas",
+  "terminas" : "2024-11-26"
+}, {
+  "id" : 15,
+  "aprasymas" : "Operacinių sistemų saugumo funkcijų tyrimas.",
+  "dalykas" : "Operacinės sistemos",
+  "pavadinimas" : "Saugumo funkcijų tyrimas",
+  "terminas" : "2024-11-27"
+} ]
