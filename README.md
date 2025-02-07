@@ -1,4 +1,5 @@
 # Educational Task Management App
+
 ### Primary aim :
 The primary goal of this project is to create an application using technologies such as Java and JavaFX, while learning how to use JSON files for data storage and processing. By developing this application, the objective is to gain experience in creating user interfaces for desktop applications using JavaFX. This project aims to enhance programming skills and provide practical experience with new technologies. 
 
@@ -18,7 +19,7 @@ The primary goal of this project is to create an application using technologies 
 ### How to run this project :
 1. Clone this repository or download the source files.
 2. Ensure you have Java 11 or higher installed on your system.
-3. Add JavaFX libraries to your project setup
+3. Add JavaFX libraries to project setup
 4. Run the project using an IDE like IntelliJ IDEA or Eclipse.
 
 ### Few screenshots of working application: 
